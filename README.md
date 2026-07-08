@@ -55,19 +55,19 @@
 <div align="center">
 
 <!-- GitHub 统计卡片 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chengziyue&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengziyue&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chengziyue1222&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengziyue1222&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
 
 <!-- GitHub Streak -->
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chengziyue&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chengziyue1222&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4" width="70%" />
 
 <!-- 贡献图蛇形动画 -->
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chengziyue/github-snake/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chengziyue/github-snake/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chengziyue/github-snake/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chengziyue1222/github-snake/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chengziyue1222/github-snake/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/chengziyue1222/github-snake/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -79,8 +79,8 @@
 <div align="center">
 
 <!-- 在这里替换成你自己的项目 -->
-<a href="https://github.com/chengziyue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chengziyue&repo=chengziyue&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
+<a href="https://github.com/chengziyue1222">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chengziyue1222&repo=chengziyue&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -89,7 +89,7 @@
 
 ## 📈 Activity Graph
 
-[![ChengZiYue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengziyue&theme=redical&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FF69B4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ChengZiYue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengziyue1222&theme=redical&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FF69B4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
@@ -117,7 +117,7 @@ _(部署方法见下方说明)_
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chengziyue1222@163.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chengziyue)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chengziyue1222)
 
 </div>
 
@@ -129,7 +129,7 @@ _(部署方法见下方说明)_
 
 如果你觉得我的项目对你有帮助，可以给我一个 ⭐️ 哦～
 
-<img src="https://komarev.com/ghpvc/?username=chengziyue&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=chengziyue1222&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 
 </div>
 
