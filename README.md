@@ -22,6 +22,19 @@
 
 <br/>
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+<!-- 在这里替换成你自己的项目 -->
+<a href="https://github.com/chengziyue1222/chengziyue1222">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chengziyue1222&repo=chengziyue1222&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -62,27 +75,6 @@
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chengziyue1222&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4" width="70%" />
 
-<!-- 贡献图蛇形动画 -->
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chengziyue1222/github-snake/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chengziyue1222/github-snake/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chengziyue1222/github-snake/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<!-- 在这里替换成你自己的项目 -->
-<a href="https://github.com/chengziyue1222">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chengziyue1222&repo=chengziyue&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
-</a>
-
 </div>
 
 <br/>
@@ -90,14 +82,6 @@
 ## 📈 Activity Graph
 
 [![ChengZiYue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengziyue1222&theme=redical&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FF69B4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-## 🐍 Contribution Snake
-
-> 让贪吃蛇吃掉你的贡献格子吧！
-
-_(部署方法见下方说明)_
 
 <br/>
 
