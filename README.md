@@ -1,128 +1,68 @@
 <div align="center">
 
-<!-- 头部打招呼区域 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20ChengZiYue!&fontSize=30&fontColor=fff&desc=Welcome%20to%20my%20little%20corner%20%E2%9C%A8&descSize=16&descAlign=50&descAlignY=70" width="100%"/>
+# Hi, I'm Chengziyue! 🌸
 
-<!-- 打字特效 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cute+Full-Stack+Developer+%F0%9F%8C%B8;Always+learning+something+new+%F0%9F%93%9A;Open+source+lover+%E2%9D%A4%EF%B8%8F;Making+cool+things+with+code+%F0%9F%92%BB)](https://git.io/typing-svg)
+### 数学建模与 AI 辅助科研工程 | Mathematical Modeling & AI-assisted Research Engineering
+
+> Turning curious questions into reproducible models, one careful step at a time. ✨
+
+[![GitHub](https://img.shields.io/badge/GitHub-chengziyue1222-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/chengziyue1222)
+[![Email](https://img.shields.io/badge/Email-chengziyue1222%40163.com-EA6A8B?style=flat-square&logo=gmail&logoColor=white)](mailto:chengziyue1222@163.com)
 
 </div>
+
+## 🌷 About me
+
+你好！我是肇庆学院的一名本科生，正在探索 **数学建模、数据分析与 AI 工具工程化** 的交叉地带。
+
+我喜欢把复杂问题拆解成清晰、可复现、可验证的解决方案：从模型选择和代码实现，到可视化、论文表达与最终检查。
+
+## 🔬 Featured project
+
+### [Math Model Agent](https://github.com/chengziyue1222/math-model-agent) `Python`
+
+一个面向数学建模竞赛的开源工具包。不只提供零散算法，更围绕完整建模流程组织工具与方法。
+
+| What it helps with | Highlights |
+| :-- | :-- |
+| 🧮 建模与求解 | 评价、预测、优化、图论、仿真、图像处理等可复用算法模块 |
+| 🧭 问题到方案 | 从题目分析、模型选择到验证与交付的结构化工作流 |
+| 📝 论文与呈现 | 科研作图、LaTeX 图表、论文检查与竞赛模板 |
+
+<div align="center">
+
+**`Explore` -> [Math Model Agent](https://github.com/chengziyue1222/math-model-agent) 🌱**
+
+</div>
+
+## 🧰 Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 🌱 What I care about
+
+- **Evidence first** — assumptions, methods, and conclusions should stand up to scrutiny.
+- **Reproducibility** — a useful result should be easy for others (and future me) to understand and repeat.
+- **Learning in public** — documenting progress, sharing tools, and improving through feedback.
+
+## 📫 Let's connect
+
+如果你也对数学建模、开源工具或 AI 辅助研究感兴趣，欢迎交流。
+
+- GitHub: [@chengziyue1222](https://github.com/chengziyue1222)
+- Email: [chengziyue1222@163.com](mailto:chengziyue1222@163.com)
 
 ---
 
-## 🌸 About Me
-
-```
-🐱 一个热爱代码的全栈开发者
-🎮 喜欢用代码创造有趣的东西
-🌱 每天都在学习新知识的路上
-💡 相信技术能让世界变得更美好
-🎯 目标：成为全栈大佬！
-```
-
-<br/>
-
-## 🌟 Featured Projects
-
 <div align="center">
-
-<!-- 在这里替换成你自己的项目 -->
-<a href="https://github.com/chengziyue1222/chengziyue1222">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chengziyue1222&repo=chengziyue1222&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-#### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-#### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub 统计卡片 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chengziyue1222&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengziyue1222&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
-
-<!-- GitHub Streak -->
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chengziyue1222&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4" width="70%" />
-
-</div>
-
-<br/>
-
-## 📈 Activity Graph
-
-[![ChengZiYue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chengziyue1222&theme=redical&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FF69B4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-## 🎮 Fun Section
-
-<div align="center">
-
-<!-- 随机编程笑话/名言 -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br/>
-
-## 📫 Contact Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chengziyue1222@163.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chengziyue1222)
-
-</div>
-
-<br/>
-
-## 💕 Support Me
-
-<div align="center">
-
-如果你觉得我的项目对你有帮助，可以给我一个 ⭐️ 哦～
-
-<img src="https://komarev.com/ghpvc/?username=chengziyue1222&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ✨ Thanks for visiting! ✨
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom.svg" width="100%"/>
-
+  <sub>Thanks for stopping by! May your models converge and your bugs be few. 🌼</sub>
 </div>
